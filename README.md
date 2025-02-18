@@ -1,5 +1,6 @@
-# Vue 3 + TypeScript + Vite
+# AI Chat Demo
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+> 302.AI 是企业级 AI 应用平台，按用量付费，开箱即用，开源生态。
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## Reference
+- [302.AI](https://gpt302.saaslink.net/1BUaRS)
